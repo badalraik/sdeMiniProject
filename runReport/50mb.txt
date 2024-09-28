@@ -1,0 +1,23 @@
+CLOUD
+
+User time (seconds): 3.12
+System time (seconds): 0.65
+Percent of CPU this job got: 89%
+Elapsed (wall clock) time (h:mm:ss or m:ss): 0:04.19
+Maximum resident set size (kbytes): 450432
+Major (requiring I/O) page faults: 0
+Minor (reclaiming a frame) page faults: 159974
+Voluntary context switches: 283
+Involuntary context switches: 184
+
+LOCAL
+
+User time (seconds): 3.29
+System time (seconds): 0.88
+Percent of CPU this job got: 75%
+Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.54
+Maximum resident set size (kbytes): 684684
+Major (requiring I/O) page faults: 0
+Minor (reclaiming a frame) page faults: 240132
+Voluntary context switches: 556
+Involuntary context switches: 227
